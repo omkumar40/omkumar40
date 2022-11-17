@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omkumar40@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WDO1V9dj3Yhp-q8J0gpuWu1ULbLbFjUl/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1eY7izEqMeDbKZQvQ6CE8HJRcMOOCgsaV)
 
 - ⚡ Fun fact **Keep Learning and Unlearning to survive**
 
