@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Om Kumar</h1>
 <h3 align="center">A Python Lover,ML-Enthusiast</h3>
 
-- 🔭 I’m currently working on [Chatbot](https://github.com/omkumar40/RestoBot)
+- 🔭 I’m currently working on [Fuzzy Matching](https://github.com/omkumar40/FuzzRush) and [Agents](https://github.com/omkumar40/build-with-ai-gemini-app)
 
-- 🌱 I’m currently learning **Java, ReactJS**
+- 🌱 I’m currently learning **Agents, Agentic RAG**
 
-- 👯 I’m looking to collaborate on **Machine Learning, Python, C++**
+- 👯 I’m looking to collaborate on **Machine Learning, Python, Deep Learning, Generative AI**
 
-- 💬 Ask me about **Python, C/C++,Machine Learning**
+- 💬 Ask me about **Machine Learning, Python, Deep Learning, Generative AI**
 
 - 📫 How to reach me **omkumar40@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PvsQW7LPdnugvw9hdnVHs6tP-Hhuw9T_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13bSqFjhX-xoAXcE-c5tFu7xiDgkF_-Yk/view?usp=sharing)
 
 - ⚡ Fun fact **Keep Learning and Unlearning to survive**
 
